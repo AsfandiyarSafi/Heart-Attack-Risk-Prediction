@@ -150,3 +150,11 @@ This project is for educational purposes. Dataset usage should comply with origi
 ---
 
 *Note: This analysis is for educational purposes only and should not be used for actual medical diagnosis or treatment decisions.*
+
+
+## 📫 Contact & Portfolio
+
+- **LinkedIn:** [https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/](https://www.linkedin.com/in/asfandiyar-safi-a8680b1bb/)  
+- **Email:** safi.asfnd@gmail.com  
+- **Portfolio / GitHub:** [https://github.com/AsfandiyarSafi](https://github.com/AsfandiyarSafi)
+
