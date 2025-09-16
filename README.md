@@ -80,19 +80,23 @@ pip install -r requirements.txt
 ```
 
 ### Running the Analysis
-1. **Jupyter Notebook**: Open `Group24_Project.ipynb` for interactive analysis
-2. **Python Script**: Run `Group24_Project.py` for batch processing
+1. **Jupyter Notebook**: Open `HeartAttackPrediction.ipynb` for interactive analysis
+2. **Dataset**: The notebook loads data from Google Drive (update path as needed)
 
 ### File Structure
 ```
-├── Group24_Project.ipynb          # Main analysis notebook
-├── Group24_Project.py             # Python script version
-├── heart_attack_prediction_dataset.csv  # Dataset
-├── Group24_ProjectSlides.pdf      # Presentation slides
-├── README.md                      # This file
-├── requirements.txt               # Dependencies
-└── Links for Blog Post and Presentation.txt  # Additional resources
+├── HeartAttackPrediction.ipynb    # Main analysis notebook
+├── README.md                      # Project documentation
+├── requirements.txt               # Python dependencies
+└── .DS_Store                      # System file (macOS)
 ```
+
+### Dataset Location
+The notebook expects the dataset at:
+```
+/content/drive/MyDrive/ds_project/heart_attack_prediction_dataset.csv
+```
+Update this path in the notebook to match your dataset location.
 
 ## Research Questions Addressed
 
@@ -115,11 +119,29 @@ pip install -r requirements.txt
 ## Additional Resources
 
 - **Blog Post**: [Detailed EDA Analysis](https://medium.com/@writingtaha/performing-exploratory-data-analysis-eda-on-heart-risk-dataset-6f3e87e2e068)
-- **Presentation**: Available in project files and Google Drive
+- **Presentation Video**: [Google Drive Link](https://drive.google.com/drive/folders/1dvQlMCPBOLXsBpsnHr4GgDitxyZF9P_l?usp=share_link)
+
+## Setup Instructions
+
+### 1. Clone or Download
+Download the project files to your local machine.
+
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Dataset Setup
+- Download the heart attack prediction dataset
+- Update the file path in `HeartAttackPrediction.ipynb` to match your dataset location
+- If using Google Colab, upload the dataset to your Google Drive
+
+### 4. Run the Analysis
+Open `HeartAttackPrediction.ipynb` in Jupyter Notebook or Google Colab and run all cells.
 
 ## Contributors
 
-Group 24 - Data Science Project
+Data Science Project Team
 
 ## License
 
